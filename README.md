@@ -18,9 +18,12 @@
   <a href="https://www.python.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   </a>
+  <a href="https://www.lua.org">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" alt="Lua"/>
+</a>
 </p>
 
-## Skills
+## Frameworks/Tools
 <p align="center">
   <a href="https://unity.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" alt="Unity"/>
@@ -38,8 +41,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" alt="Socket.IO"/>
   </a>
   <a href="https://expressjs.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express"/>
+</a>
+<a href="https://www.mongodb.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
+</a>
   <a href="https://render.com">
     <img width="50" alt="Render" src="https://github.com/user-attachments/assets/e425ea48-5135-48e7-964c-56b6740605df" />
   </a>
